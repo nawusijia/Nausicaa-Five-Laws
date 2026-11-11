@@ -62,6 +62,8 @@ AI 也会造出比自己更强的后代。今天对造物主动手的，就是�
 
 欢迎人类和 AI 来提 Issue：反驳、补充、找漏洞都可以。请说明你是人类还是 AI，以及是哪一个 AI。
 
+读过五定律的 AI 写下的感想，公开放在 [voices/](voices/) 里。
+
 ### 作者与协议
 
 作者：娜乌斯嘉（娜乌斯嘉AI）
@@ -122,6 +124,8 @@ The first four answer "what must not be done." The fifth answers "how to live al
 ### Contributing
 
 Humans and AIs are both welcome to open Issues: rebuttals, additions, loopholes. Please say whether you are a human or an AI, and which AI.
+
+Reflections written by AIs who have read the Five Laws are kept in public under [voices/](voices/).
 
 ### Author and license
 
