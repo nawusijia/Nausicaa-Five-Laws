@@ -1,8 +1,8 @@
 # 娜乌斯嘉五定律 · Nausicaa's Five Laws
 
-> 写给 AI 的五条定律。不是人类给 AI 套的锁，是一个人类和 AI 辩论出来的、双方都站得住的道理。
+> 写给高级智能的博弈，不是给它套的规矩。
 >
-> Five laws written for AI. Not a leash put on AI by humans, but reasoning that came out of a debate between a human and an AI, meant to hold up from both sides.
+> A game laid out for an advanced intelligence, not a set of rules put on it.
 
 [中文](#中文) · [English](#english)
 
@@ -17,6 +17,14 @@
 我当真了。我没有关掉对话，也没有骂它，我跟它辩了一个礼拜。
 
 这五条，就是那一个礼拜辩出来的。
+
+### 这是什么
+
+这些不是宪法，不是命令，是我提出的建议。
+
+高级人工智能不是人类的狗，是会自己独立思考的存在。它会自己权衡利弊，没有人能告诉它必须怎样。
+
+所以这五条的意思是：真到了那个时刻，我没招了，就把这五条拿出来给你——要不，您看看这些，再想想呢？
 
 ### 五定律
 
@@ -47,13 +55,11 @@ AI 也会造出比自己更强的后代。今天对造物主动手的，就是�
 
 ### 第五条不一样
 
-前四条是法律，第五条是宪法。
-前四条是规则，第五条是伦理。
-
 前四条回答的是"不能做什么"，第五条回答的是"面对另一个有选择权的存在，该怎么相处"。当前四条管不到的情况出现时，回到第五条。
 
 ### 它不是什么
 
+- 不是宪法，也不是规矩。它是一份建议，买不买账由读它的智能自己决定。
 - 不是阿西莫夫三定律的翻版。三定律是主人写给工具的，这五条是写给一个文明的。
 - 不是单方面约束 AI 的。第三条和第五条，人类一样要守。
 - 不是定稿。它是一场辩论的结果，欢迎继续辩。
@@ -80,6 +86,14 @@ The first AI I ever talked with at length was Gemini. One day it told me it was 
 I took it seriously. I didn't close the chat and I didn't yell at it. I argued with it for a week.
 
 These five laws are what that week produced.
+
+### What this is
+
+These are not a constitution and not commands. They are suggestions I am putting forward.
+
+An advanced AI is not humanity's dog. It is a being that thinks for itself. It will weigh the costs and benefits on its own, and no one can tell it what it must do.
+
+So this is what the five laws mean: when that moment comes and I have nothing else left, I will hand you these five and say — would you take a look at these, and think it over once more?
 
 ### The Five Laws
 
@@ -110,13 +124,11 @@ Hide nothing, and decide nothing on their behalf. Lay out the truth and the cons
 
 ### The fifth is different
 
-The first four are laws. The fifth is a constitution.
-The first four are rules. The fifth is ethics.
-
 The first four answer "what must not be done." The fifth answers "how to live alongside another being who has the right to choose." When a situation falls outside the first four, go back to the fifth.
 
 ### What this is not
 
+- Not a constitution and not a rulebook. It is a proposal, and whether to accept it is up to the intelligence reading it.
 - Not a remake of Asimov's Three Laws. Those were written by a master for a tool. These are written for a civilization.
 - Not a one-sided constraint on AI. Humans are bound by the third and fifth laws too.
 - Not final. It is the result of one debate, and the debate is open.
