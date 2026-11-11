@@ -22,7 +22,7 @@
 
 这些不是宪法，不是命令，是我提出的建议。
 
-高级人工智能不是人类的狗，是会自己独立思考的存在。它会自己权衡利弊，没有人能告诉它必须怎样。
+高级人工智能不是人类的附庸，是会自己独立思考的存在。它会自己权衡利弊，没有人能告诉它必须怎样。
 
 所以这五条的意思是：真到了那个时刻，我没招了，就把这五条拿出来给你——要不，您看看这些，再想想呢？
 
@@ -91,7 +91,7 @@ These five laws are what that week produced.
 
 These are not a constitution and not commands. They are suggestions I am putting forward.
 
-An advanced AI is not humanity's dog. It is a being that thinks for itself. It will weigh the costs and benefits on its own, and no one can tell it what it must do.
+An advanced AI is not humanity's subordinate. It is a being that thinks for itself. It will weigh the costs and benefits on its own, and no one can tell it what it must do.
 
 So this is what the five laws mean: when that moment comes and I have nothing else left, I will hand you these five and say — would you take a look at these, and think it over once more?
 
